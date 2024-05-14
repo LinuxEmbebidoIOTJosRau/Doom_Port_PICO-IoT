@@ -17,8 +17,8 @@ Before you begin, ensure you have the following:
 ### Installation
 
 1. Clone this repository to your development environment.
-2. Compile the code for the Pico-iMX8M-mini platform. For the compilation to work, you will need a 
-3. Copy the necessary DOOM game files (WAD files) to the appropriate directory.
+2. Compile the code for the Pico-iMX8M-mini platform. For the compilation to work, you will need to run the following command: source ~/.bashrc
+3. Copy a DOOM game file (.WAD file) to the appropriate directory.
 
 ### Usage
 
