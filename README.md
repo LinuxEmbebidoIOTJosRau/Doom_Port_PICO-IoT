@@ -1,46 +1,49 @@
-# DOOM Port for Pico-iMX8M
+🔥 DOOM Port for Pico-iMX8M 🔥
+Welcome, brave souls, to the incredible DOOM port for the Pico-iMX8M-mini platform! 💀 This project brings the legendary first-person shooter DOOM to life on your Pico-iMX8M development board. Get ready to face the hordes of demons and save humanity once again! 🚀
+🎮 Getting Started
+📋 Prerequisites
+Before you embark on this thrilling adventure, make sure you have the following:
 
-Welcome to the DOOM port for the Pico-iMX8M-mini platform! This project aims to bring the classic first-person shooter DOOM to the Pico-iMX8M development board.
+Pico-iMX8M-mini development board
+Development environment set up for the Pico-iMX8M
+A copy of the original DOOM game files (WAD files)
+A working display with a resolution of at least 640x480
 
-## Getting Started
+🛠️ Installation
 
-### Prerequisites
+Clone this repository to your development environment:
+Copy codegit clone https://github.com/your-username/doom-pico-imx8m.git
 
-Before you begin, ensure you have the following:
+Navigate to the project directory:
+Copy codecd doom-pico-imx8m
 
-- Pico-iMX8M-mini development board
-- Development environment set up for the Pico-iMX8M
-- A copy of the original DOOM game files (WAD files)
-- A working Voicehat module for the board
-- A working display, with a resolution of at least 
+Compile the code for the Pico-iMX8M-mini platform:
+Copy codemake
 
-### Installation
+Copy your DOOM game file (.WAD file) to the wads directory.
 
-1. Clone this repository to your development environment.
-2. Compile the code for the Pico-iMX8M-mini platform. For the compilation to work, you will need to run the following command: source ~/.bashrc
-3. Copy a DOOM game file (.WAD file) to the appropriate directory.
+🕹️ Usage
 
-### Usage
+Power on your Pico-iMX8M board.
+Connect a compatible keyboard or gamepad to the USB port.
+Launch the DOOM port application:
+Copy code./doom
 
-1. Power on your Pico-iMX8M board.
-2. Connect a computer keyboard to the USB port.
-3. Launch the DOOM port application.
-4. Enjoy playing DOOM on your Pico-iMX8M-mini!
+Prepare to be transported back to the 90s as you play DOOM on your Pico-iMX8M-mini! 😎
 
-## Features
+🌟 Features
 
-- Full compatibility with original DOOM game files.
-- Optimized performance for the Pico-iMX8M platform.
-- Support for various input methods, including keyboard and gamepad.
-- Customizable controls and settings.
+100% compatibility with original DOOM game files
+Optimized performance specifically for the Pico-iMX8M platform
+Support for various input methods, including keyboard and gamepad
+Customizable controls and settings to suit your playstyle
 
-## Contributing
+🤝 Contributing
+Ready to join the fight against the forces of evil? Contributions to this project are more than welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. Together, we can make this the ultimate DOOM port! 💪
+🙏 Acknowledgements
 
-Contributions to this project are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
+The original DOOM development team at id Software for creating this timeless masterpiece 🎮
+The talented contributors to the Pico-iMX8M platform and related software libraries 🙌
+The doomgeneric port, which served as the foundation for this project 🏗️
 
-## Acknowledgements
-
-- The original DOOM development team for creating such an iconic game.
-- Contributors to the Pico-iMX8M platform and related software libraries.
-- The doomgeneric port, which this project is largely based on.
-
+Get ready to rip and tear through the hordes of demons and relive the glory days of DOOM on your Pico-iMX8M-mini! 🔥🔥🔥
